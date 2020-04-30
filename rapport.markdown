@@ -4,7 +4,7 @@
 
 ### ─
 
-#### LUWEH NGARTI Exaucé
+#### LUWEH ADJIM NGARTI Exaucé
 
 #### LAAMOUMRI Yassine
 
@@ -674,6 +674,6 @@ Bien évidemment, tous les messages reçus lui sont affichés.
 ## V. ​Schéma bilan représentant le fonctionnement de
 
 ## notre chat
-![alt text](https://raw.githubusercontent.com/ngartiexauce/Chat-IRC/master/chat.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/ngartiexauce/Chat-IRC/master/chat.png "Résumé du chat")
 
 
