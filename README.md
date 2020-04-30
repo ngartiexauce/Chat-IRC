@@ -1,5 +1,5 @@
 # Chat-IRC
-##Creéation d'un chat IRC dans le cadre du projet réseaux
+
 
 # Mini-Projet Réseau
 
